@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x37b0c0E47Cb5eCF652E61A573af7d209f2CAf7E1",
+  "SCAN_LINK": "https://polygonscan.com/token/0x37b0c0E47Cb5eCF652E61A573af7d209f2CAf7E1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Seamorphus LT Suns",
+  "SYMBOL": "SLTS",
+  "MAX_SUPPLY": 15625,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/seamorphus-lt-suns",
+  "SHOW_BACKGROUND": true
+}
